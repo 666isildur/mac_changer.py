@@ -2,7 +2,7 @@
 
 Process of creating a mac changer script.
 
-From v0 to v5 shows the improvements on the script in terms of new objects, modules, functions and also cleaner code.
+From v0 to v5 (v5 has comments expaining the code) shows the improvements on the script in terms of new objects, modules, functions and also cleaner code.
 
 Final version is mac_changer.py
 
