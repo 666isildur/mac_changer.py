@@ -6,6 +6,11 @@ From v0 to v5 shows the improvements on the script in terms of new objects, modu
 
 Final version is mac_changer.py
 
+Why changing MAC address?
+1) Increase anonymity
+2) Impersonate other devices
+3) Bypass filters
+
 Usage:
   -i or --interface to select interface
   -m or --mac to choose new mac address
