@@ -14,6 +14,6 @@ Why changing MAC address?
 Usage:
   -i or --interface to select interface
   -m or --mac to choose new mac address
-  python mac_changer.py -i <interface> -m <new mac>
+
   Ex: python mac_changer.py --interface eth0 --mac 00:11:22:33:44:55
   
