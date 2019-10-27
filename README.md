@@ -4,7 +4,7 @@ Process of creating a mac changer script for linux OS.
 
 From v0 to v5 (v5 has comments expaining the code) shows the improvements on the script in terms of new objects, modules, functions and also cleaner code.
 
-Final version is mac_changer.py
+Final version is "mac_changer.py"
 
 Why changing MAC address?
 1) Increase anonymity
